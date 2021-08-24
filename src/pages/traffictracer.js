@@ -19,7 +19,7 @@ const Generic = (props) => (
                     </header>
                     <span className="image main">
                         <StaticImage 
-                            src="../assets/images/traffictracer.gif"
+                            src="../assets/images/traffictracer.png"
                             width={300}
                             alt="traffic tracer logo"
                         />

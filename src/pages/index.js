@@ -4,7 +4,7 @@ import Helmet from 'react-helmet'
 import Layout from '../components/layout'
 import Banner from '../components/Banner'
 
-import pic01 from '../assets/images/traffictracer.gif'
+import pic01 from '../assets/images/traffictracer.png'
 import pic02 from '../assets/images/finger_point_up.png'
 import pic03 from '../assets/images/solar.png'
 import pic04 from '../assets/images/ATATCockpit.png'
