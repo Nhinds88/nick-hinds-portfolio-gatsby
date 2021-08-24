@@ -6,6 +6,7 @@ import Banner from '../components/Banner'
 
 import pic01 from '../assets/images/traffictracer.png'
 import pic02 from '../assets/images/finger_point_up.png'
+// changed PNG to png
 import pic03 from '../assets/images/solar.png'
 import pic04 from '../assets/images/ATATCockpit.png'
 import pic05 from '../assets/images/spaceship.png'
