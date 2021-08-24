@@ -1,12 +1,12 @@
 {
-  "name": "gatsby-starter-forty-v2",
-  "description": "Gatsby Starter - Forty V2",
-  "version": "1.0.0",
-  "author": "Hunter Chang",
+  "name": "nick-portfolio",
+  "description": "Nick's Portfolio",
+  "version": "3.0",
+  "author": "Nick Hinds",
   "dependencies": {
     "animejs": "^3.2.1",
     "bootstrap": "^5.0.2",
-    "gatsby": "^2.19.5",
+    "gatsby": "^2.32.13",
     "gatsby-image": "^3.11.0",
     "gatsby-plugin-image": "^1.11.0",
     "gatsby-plugin-manifest": "^2.2.38",
