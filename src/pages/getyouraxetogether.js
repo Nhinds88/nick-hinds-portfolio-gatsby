@@ -19,7 +19,7 @@ const Generic = (props) => (
                     </header>
                     <span className="image main">
                         <StaticImage 
-                            src="../assets/images/ATATCockpit.png"
+                            src="../assets/images/logo.png"
                             width={300}
                             alt="cockpit"
                         /> 
@@ -34,6 +34,7 @@ const Generic = (props) => (
                     <br>
                     </br>
                     <ul className="actions">
+                        <li><Link to="https://get-your-axe-together.herokuapp.com/"  className="button next">Heroku</Link></li>
                         <li><Link to="https://github.com/Nhinds88/GetYourAxeTogether" className="button next">Github</Link></li>
                     </ul>
                 </div>
