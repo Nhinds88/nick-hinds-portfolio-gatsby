@@ -20,8 +20,8 @@ const Generic = (props) => (
                     <span className="image main">
                         <StaticImage 
                             src="../assets/images/logo.png"
-                            width={300}
-                            alt="cockpit"
+                            width={200}
+                            alt="Logo"
                         /> 
                     </span>
                     <p>Get Your Axe Together is a eStore for fantasy armory store, base in a table top game some friends and I play together.</p>
