@@ -7,7 +7,7 @@ import { StaticImage } from "gatsby-plugin-image"
 const Generic = (props) => (
     <Layout>
         <Helmet>
-            <title>Nick Hinds - rasPi Display</title>
+            <title>Nick Hinds - Get Your Axe Together</title>
             <meta name="description" content="rasPi Information" />
         </Helmet>
 
@@ -15,7 +15,7 @@ const Generic = (props) => (
             <section id="one">
                 <div className="inner">
                     <header className="major">
-                        <h1>rasPi Display</h1>
+                        <h1>Get Your Axe Together</h1>
                     </header>
                     <span className="image main">
                         <StaticImage 
@@ -24,17 +24,17 @@ const Generic = (props) => (
                             alt="cockpit"
                         /> 
                     </span>
-                    <p>rasPi Display is a project for the raspberry pi to build a news headline display.</p>
+                    <p>Get Your Axe Together is a eStore for fantasy armory store, base in a table top game some friends and I play together.</p>
                     <br>
                     </br>
-                    <p>It uses Python to scrapp BBC headlines form the world news page.</p>
+                    <p>I built using Gatsby and Next.JS along with snipcart to facilitate the eStore cart/ checkout process.</p>
                     <br>
                     </br>
-                    <p>It uses Pygame and some Python to merge to images together to build the display on the screen.</p>
+                    <p>Check out the links below to grab ye some steel worthy of great adventurer!</p>
                     <br>
                     </br>
                     <ul className="actions">
-                        <li><Link to="https://github.com/Nhinds88/rasPi_display" className="button next">Github</Link></li>
+                        <li><Link to="https://github.com/Nhinds88/GetYourAxeTogether" className="button next">Github</Link></li>
                     </ul>
                 </div>
             </section>

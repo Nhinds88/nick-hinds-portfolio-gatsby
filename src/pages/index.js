@@ -8,7 +8,7 @@ import pic01 from '../assets/images/traffictracer.png'
 import pic02 from '../assets/images/finger_point_up.png'
 // changed PNG to png
 import pic03 from '../assets/images/solar.png'
-import pic04 from '../assets/images/ATATCockpit.png'
+import pic04 from '../assets/images/logo.png'
 import pic05 from '../assets/images/spaceship.png'
 import pic06 from '../assets/images/Twitter-logo-png-5859_-_Copy.png'
 
@@ -53,10 +53,10 @@ class HomeIndex extends React.Component {
                         </article>
                         <article style={{backgroundImage: `url(${pic04})`}}>
                             <header className="major">
-                                <h3>rasPi Display</h3>
-                                <p>A Raspberry Pi project using Python to green screen an image and web scrapping to display news headlines.</p>
+                                <h3>Get Your Axe Together</h3>
+                                <p>A fantasy eStore built using Gatsby, NEXT.JS, and Snipcart. Get Your favorite piece of steel!</p>
                             </header>
-                            <Link to="/raspidisplay" className="link primary"></Link>
+                            <Link to="/getyouraxetogether" className="link primary"></Link>
                         </article>
                         <article style={{backgroundImage: `url(${pic05})`}}>
                             <header className="major">
