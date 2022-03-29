@@ -10,7 +10,7 @@ import pic02 from '../assets/images/finger_point_up.png'
 import pic03 from '../assets/images/solar.png'
 import pic04 from '../assets/images/logo.png'
 import pic05 from '../assets/images/spaceship.png'
-import pic06 from '../assets/images/Twitter-logo-png-5859_-_Copy.png'
+import pic06 from '../assets/images/Raspi.png'
 
 class HomeIndex extends React.Component {
     render() {
@@ -67,10 +67,10 @@ class HomeIndex extends React.Component {
                         </article>
                         <article style={{backgroundImage: `url(${pic06})`}}>
                             <header className="major">
-                                <h3>Twitter Scrapper</h3>
-                                <p>A web scrapper written in Python to gather tweets based off of a user entered keyword.</p>
+                                <h3>Pi - Dashboard</h3>
+                                <p>A React project made to be a web based dashboard on a screen attached to a raspberry pi.</p>
                             </header>
-                            <Link to="/twitterscrapper" className="link primary"></Link>
+                            <Link to="/pidashboard" className="link primary"></Link>
                         </article>
                     </section>
                     <section id="two">

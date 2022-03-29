@@ -12,7 +12,7 @@ const Menu = (props) => (
                 <li><Link onClick={props.onToggleMenu} to="/solar">Solar</Link></li>
                 <li><Link onClick={props.onToggleMenu} to="/getyouraxetogether">Get Your Axe Together</Link></li>
                 <li><Link onClick={props.onToggleMenu} to="/alieninvasion">Alien Invasion</Link></li>
-                <li><Link onClick={props.onToggleMenu} to="/twitterscrapper">Twitter Scrapper</Link></li>
+                <li><Link onClick={props.onToggleMenu} to="/pidashboard">Pi - Dashboard</Link></li>
             </ul>
             <ul className="actions vertical">
                 <li><a href="https://github.com/Nhinds88" className="button special fit">Github</a></li>

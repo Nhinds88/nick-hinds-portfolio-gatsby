@@ -7,28 +7,28 @@ import { StaticImage } from "gatsby-plugin-image"
 const Generic = (props) => (
     <Layout>
         <Helmet>
-            <title>Nick Hinds - Twitter Scrapper</title>
-            <meta name="description" content="Twitter Keyword Scrapper" />
+            <title>Nick Hinds - Pi - Dashboard</title>
+            <meta name="description" content="Pi - Dashboard" />
         </Helmet>
 
         <div id="main" className="alt">
             <section id="one">
                 <div className="inner">
                     <header className="major">
-                        <h1>Twitter Scrapper</h1>
+                        <h1>Pi - Dashboard</h1>
                     </header>
                     <span className="image main">
                         <StaticImage 
-                            src="../assets/images/Twitter-logo-png-5859_-_Copy.png"
+                            src="../assets/images/Raspi.png"
                             width={300}
                             alt="twitter"
                         />
                     </span>
-                    <p>A Python Script that allows the user to enter a keyword, which it generates a CSV files with all the tweets related to that keyword.</p>
+                    <p>A React Project built to be used a screen attached to a raspberry pi. It features movable tiles that snap in place as need, along with API calls for twitter, crypto prices, news headlines and weather.</p>
                     <br>
                     </br>
                     <ul className="actions">
-                        <li><Link to="https://github.com/Nhinds88/twitterscaper" className="button next">Github</Link></li>
+                        <li><Link to="https://github.com/Nhinds88/pi-dashboard" className="button next">Github</Link></li>
                     </ul>
                 </div>
             </section>
